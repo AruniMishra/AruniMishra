@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**AruniMishra/AruniMishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on AWS & Java
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with Python
+- 💬 Ask me about Java and AWS
+
+### Stats
+
+<a href="#stats">
+<img align="center" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=AruniMishra&hide=css&layout=compact" />
+</a>
+</br>
+</br>
