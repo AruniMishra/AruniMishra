@@ -9,12 +9,12 @@
 ### Stats
 
 <a href="#stats">
-<img align="center" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=AruniMishra&hide=css&layout=compact" />
+<img align="center" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=AruniMishra&hide=css&layout=compact&theme=dark" />
 </a>
 </br>
 </br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AruniMishra&" alt="AruniMishra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AruniMishra&theme=dark" alt="AruniMishra" /></p>
 </br>
 </br>
 
