@@ -13,3 +13,12 @@
 </a>
 </br>
 </br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AruniMishra&" alt="AruniMishra" /></p>
+</br>
+</br>
+
+
+[linkedin]: https://www.linkedin.com/in/aruni-mishra-419a3848/
+[website]: http://arunimishra.com/
+[gmail]: mailto:arunimishramsit@gmail.com
