@@ -18,6 +18,10 @@
 </br>
 </br>
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">][gmail]
+
+[website]
 
 [linkedin]: https://www.linkedin.com/in/aruni-mishra-419a3848/
 [website]: http://arunimishra.com/
