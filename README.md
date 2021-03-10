@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on AWS & Java
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about Java and AWS
 
@@ -22,7 +21,7 @@
 [<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">][gmail]
 
 
-http://arunimishra.com/
+[arunimishra.com](https://www.arunimishra.com)
 
 [linkedin]: https://www.linkedin.com/in/aruni-mishra-419a3848/
 [gmail]: mailto:arunimishramsit@gmail.com
