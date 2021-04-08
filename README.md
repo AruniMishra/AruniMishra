@@ -25,3 +25,4 @@
 
 [linkedin]: https://www.linkedin.com/in/aruni-mishra-419a3848/
 [gmail]: mailto:arunimishramsit@gmail.com
+[email]: mailto:gmail@arunimishra.com
