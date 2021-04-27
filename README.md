@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on AWS & Java
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with Python
-- 💬 Ask me about Java and AWS
+- 💬 Ask me about Java, AWS and Python
 
 ### Stats
 
