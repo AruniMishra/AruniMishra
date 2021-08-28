@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Python & Docker
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about Java, AWS and Python
+- 
 
 ### Stats
 
