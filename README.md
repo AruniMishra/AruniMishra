@@ -1,12 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently working on AWS & Java; AWS solution architect associate certified
 - 🌱 I’m currently learning Python & Docker
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about Java, AWS and Python
 
-
-### Stats
+## Stats
 
 <a href="#stats">
 <img align="center" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=AruniMishra&hide=css&layout=compact&theme=dark" />
@@ -20,7 +19,6 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">][gmail]
-
 
 [arunimishra.com](https://www.arunimishra.com)
 
