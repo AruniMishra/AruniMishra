@@ -1,7 +1,7 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on AWS & Java; AWS solution architect associate certified
-- 🌱 I’m currently learning Python & Docker and Azure
+- 🔭 I’m currently working on AWS, Azure & Java; AWS solution architect associate certified
+- 🌱 I’m currently learning Python, Docker and Azure
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about Java, AWS and Python
 
