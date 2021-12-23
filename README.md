@@ -5,7 +5,6 @@
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about Java, AWS and Python
 
-
 ## Stats
 
 <a href="#stats">
