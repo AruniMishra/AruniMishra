@@ -9,7 +9,7 @@
 ## Stats
 
 <a href="#stats">
-<img align="center" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=AruniMishra&hide=css&layout=compact&theme=dark" />
+<img align="center" src = "https://gh-readme-stats.vercel.app/api/top-langs/?username=AruniMishra&hide=css&layout=compact&theme=dark" />
 </a>
 </br>
 </br>
